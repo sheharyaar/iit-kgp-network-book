@@ -7,7 +7,7 @@ Before concluding that there is issue with the port, make sure to check the foll
 
 Make sure your cable is CAT 5e and better (6, 6e, etc.) that you can get easily in TechM.
 
-![Lan Cables Types](<.gitbook/assets/cat cables>)
+![Lan Cables Types](<.gitbook/assets/cat-cables.png>)
 
 ***
 
