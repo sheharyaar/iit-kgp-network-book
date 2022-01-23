@@ -7,7 +7,7 @@ Before concluding that there is issue with the port, make sure to check the foll
 
 Make sure your cable is CAT 5e and better (6, 6e, etc.) that you can get easily in TechM.
 
-![Lan Cables Types](<.gitbook/assets/cat-cables.png>)
+![Lan Cables Types](<assets/cat-cables.png>)
 
 ***
 
@@ -85,6 +85,6 @@ $ sudo ethtool -s eno2 speed 1000 duplex full autoneg on
 
 #### For Windows users : [Follow this guide](https://docs.microsoft.com/en-us/azure/devops/reference/xml/configure-network-adapter-automatically-adjust-speed?view=tfs-2013). **But**, in the last step instead of `Auto`, select `1.0 Gbps Full Duplex`.
 
-![Windows 10 settings](.gitbook/assets/lan-full.png)
+![Windows 10 settings](assets/lan-full.png)
 
 > Note: If still the network is slow, then it must be the issue with the port or the entire network is slow due to maintainence.

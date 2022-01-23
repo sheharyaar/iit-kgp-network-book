@@ -23,7 +23,7 @@ wlo1      IEEE 802.11  ESSID:"STUDENT_SECURED"
 
 The current laptops either use Wifi 5 or Wifi 6. The can be summarised as follows :
 
-![Wifi Version COmparison](<.gitbook/assets/wifi5-vs-wifi6.jpg>)
+![Wifi Version COmparison](<assets/wifi5-vs-wifi6.jpg>)
 
 Source : [What’s the Difference Between Wi-Fi 5 and Wi-Fi 6?](https://www.mwrf.com/technologies/systems/article/21849959/whats-the-difference-between-wifi-5-and-wifi-6)
 
