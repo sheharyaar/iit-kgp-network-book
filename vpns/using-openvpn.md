@@ -1,23 +1,5 @@
 # Using OpenVPN
 
-***
-
-## Legal Notice
-
-<h3>Disclaimer for IIT KGP Network repository</h3>
-
-<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact me by email at sheharyaar48@gmail.com.</p>
-
-<p>All the information on this website - <a href="https://iitkgp-network.netlify.app/">https://iitkgp-network.netlify.app/</a> and sub-repositories of <a href="https://github.com/sheharyaar/">https://github.com/sheharyaar/</a> - is published in good faith and for general information purpose only. These does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (IIT KGP Network) and the repositories (github.com/sheharyaar) , is strictly at your own risk. The author will not be liable for any losses and/or damages in connection with the use of our website.</p>
-
-<p>From my website and repositories, you can visit other websites by following hyperlinks to such external sites. While I strive to provide only quality links to useful and ethical websites, I have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
-
-<p>Please be also aware that when you leave my website and repositories, other sites may have different privacy policies and terms which are beyond my control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
-
-<h3>Consent</h3>
-
-<p>By using my website and repositories, you hereby consent to our disclaimer and agree to its terms. By using my resources you are also subjected to the laws of India - Information Technology Act, 2000.</p>
-
 ## Step 1: Get an AWS account
 
 > ⚠️ Make sure to setup the server properly at your own risk. I am not liable to any charges you receive for your mistakes. First watch video about Billing here - [Billing and Terminating Instances](https://www.youtube.com/watch?v=Ptij0mq1Mv4).
