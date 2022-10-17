@@ -138,3 +138,7 @@ iface default inet dhcp
 dhcp-option=6, <expressvpn dns server>
 ```
 by adding the DNS server obtained in step 1. Reload the DNS service using `sudo systemctl restart dnsmasq.service` and finally disconnect and reconnect the clients.
+
+***
+<h3 align="center">Thank You for reading! :heart::heart::heart: </h3>
+

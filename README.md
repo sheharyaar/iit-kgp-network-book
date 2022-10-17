@@ -6,7 +6,6 @@
 For general public: [General Readme](/general/README.md) \
 For people with technical knowledge: [Technical Readme](/technical/README.md)
 
-
 # Credits
 
 A great vote of thanks to the following contributors :
@@ -16,6 +15,4 @@ A great vote of thanks to the following contributors :
 - Rajiv Harlalka ([@rajivharlalka](https://github.com/rajivharlalka)) and Chirag Ghosh ([@chirag-ghosh](https://github.com/chirag-ghosh)) - Help with OpenVPN Setup.
 - Anjay Goel ([@AnjayGoel](https://github.com/AnjayGoel)) for his intuitive blog on setting up OpenVPN Server.
 - Arpit Bhardwaj ([@proffapt](https://github.com/proffapt)) for helping to organize the repository and make it more accessible.
-***
-<h3 align="center">Thank You for reading and contributing! :heart::heart::heart: </h3>
 
