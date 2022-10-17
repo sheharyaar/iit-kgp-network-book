@@ -1,11 +1,21 @@
 # Introduction
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+For general public: [General Readme](/general/README.md) \
+For people with technical knowledge: [Technical Readme](/technical/README.md)
+
+
+# Credits
+
+A great vote of thanks to the following contributors :
+- Mohammad Shehar Yaar Tausif ([@sheharyaar](https://github.com/sheharyaar)) - For writing and hosting the repository.
+- Ishan Manchanda ([@IshanManchanda](https://github.com/IshanManchanda)) - Contribution to the list of working VPNs.
+- Soham Sen ([@Yureien](https://github.com/Yureien)) - Testing UDP and TCP on external network on private ports via `netcat`.
+- Rajiv Harlalka ([@rajivharlalka](https://github.com/rajivharlalka)) and Chirag Ghosh ([@chirag-ghosh](https://github.com/chirag-ghosh)) - Help with OpenVPN Setup.
+- Anjay Goel ([@AnjayGoel](https://github.com/AnjayGoel)) for his intuitive blog on setting up OpenVPN Server.
+- Arpit Bhardwaj ([@proffapt](https://github.com/proffapt)) for helping to organize the repository and make it more accessible.
 ***
+<h3 align="center">Thank You for reading and contributing! :heart::heart::heart: </h3>
 
-In this repo, I will write about the problems students face on campus network and attempt to provide solution (feasible or non feasible). The solutions end at Section 3.
-
-In Section 4, I will write in depth discussion on why does few protocols, which are really good, like Wireguard, UDP based VPNs, etc. do not work on campus network. Feel free to skip that section if you are not interested.
-
-Section 5 deals with Contributing rules and Section 6 ends with a vote of thanks to people who helped me in anyway.
-
-> I am working on a VPN implementation based on lightway by ExpressVPN - [check out](https://github.com/sheharyaar/lagnos-vpn)

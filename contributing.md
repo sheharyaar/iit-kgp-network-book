@@ -1,26 +1,11 @@
 # Contributing
 
-***
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-All help is appreciated. Please create a new issue to contribute. For VPN testing tasks, attach/enter the following data (even if the VPN failed ) :
+If you have a suggestion that would make this better, please fork the repo and create a pull request; make sure your pull request follows the guidlines mentioned in [Contribution Guidlines](./CONTRIBUTING.md). Aliter, you can just simply open an issue with the tag "enhancement".
 
-For all systems :
-
-* Error or warning messages if any.
-* If the VPN failed or worked
-* If the VPN worked, check `DNS Leak` from here (any of the standard or extended test) : [https://www.dnsleaktest.com/](https://www.dnsleaktest.com/results.html) .DNS Leak test is **passed** only if the IP addresses shown in the results are the IP address assigned buy the VPN. Enter either _passed_ or _failed_ for this.
-
-!> DNS Leak test is important as the institute does filter DNS requests. Please don't open any blocked website right away before check the DNS Leak Test. First perform the test, then verify the IP location at atleast 2 website service online.
-
-For Linux tests only :
-
-* Name of the dns resolver used by your system.
-* Contents of `/etc/resolv.conf` before and after using the vpn.
-* `iptables` rules before and after using the vpn.
-
-?> VPN Tests on Linux is preferred as it will provide much more information than the other OS.
-
-For protocol testing tasks, please attach the following:
-
-* The method of testing
-* Screenshots or outputs from various programs if used like, `tcpdump` , `wireshark`, etc.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature`)
+3. Commit your Changes (`git commit -m 'Adding some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature`)
+5. Open a Pull Request
